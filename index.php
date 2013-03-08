@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-       echo 'pai1_test_git_ver1';
+       echo 'pai2_test_git_ver2';
         ?>
     </body>
 </html>
